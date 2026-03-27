@@ -2,16 +2,6 @@
 ### Parametric Die Component Structural Validation System
 #### Automated CATIA V5 FEA Pipeline with Design Table Integration & COM Object Model Scripting
 
----
-
-**Author:** Siddhant Gawad  
-**Institution:** University of Windsor — MEng Mechanical Engineering  
-**Date:** March 2026  
-**Repository:** [github.com/siddgawad/dieform-auto](https://github.com/siddgawad/dieform-auto)  
-**Tools:** CATIA V5 (Part Design, GPS Workbench, VBA/COM Automation), Python
-
----
-
 ## Abstract
 
 This project presents an end-to-end automation framework for parametric structural validation of mechanical components in CATIA V5. The system programmatically cycles through multiple design configurations via the COM (Component Object Model) interface, extracts part metadata and Bills of Materials by traversing the Part object hierarchy, and compiles Finite Element Analysis results across varying mesh densities for convergence verification.
