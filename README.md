@@ -209,7 +209,7 @@ This is the same interface accessed by Python via `win32com.client.Dispatch('CAT
 
 **Result:** All 4 configurations cycled and metadata extracted in <10 seconds.
 
-![Script 1 Output — 4 configurations extracted](screenshots/script1_output.png)
+![Script 1 Output — 4 configurations extracted](catia_scresnhots_VBA_and_outputs/Screenshot 2026-03-26 214050.png)
 
 ### 6.3 Script 2 — Bill of Materials & Part Structure Extractor
 
